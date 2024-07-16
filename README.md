@@ -82,11 +82,5 @@ This project aims to detect weapons in real-time through cameras and notify auth
   - **db.sqlite3**: SQLite database file.
   - **manage.py**: Django management script.
 
-## Contributing
 
-Contributions are welcome! Please create an issue or submit a pull request for any improvements.
 
-## License
-
-This project is licensed under the MIT License.
-```
