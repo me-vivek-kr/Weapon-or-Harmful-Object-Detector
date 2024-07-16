@@ -18,7 +18,7 @@ This project aims to detect weapons in real-time through cameras and notify auth
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/jztchl/realtime-weapon-detection.git
+   git clone https://github.com/me-vivek-kr/Weapon-or-Harmful-Object-Detector.git
    cd realtime-weapon-detection
    ```
 
