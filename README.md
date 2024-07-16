@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[weapon_detection.png](https://thumbs.dreamstime.com/b/d-penguin-sheriff-render-wearing-cowboy-hat-holding-pistol-ready-46594638.jpg)" alt="weapon detection Logo" width="200">
+  <img src="https://thumbs.dreamstime.com/b/d-penguin-sheriff-render-wearing-cowboy-hat-holding-pistol-ready-46594638.jpg" alt="weapon detection Logo" width="200">
 </p>
 
 # Real-Time Weapon Detection
